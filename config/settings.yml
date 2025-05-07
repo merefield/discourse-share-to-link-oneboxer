@@ -1,0 +1,4 @@
+plugins:
+  share_to_link_oneboxer_enabled:
+    default: true
+    client: false
