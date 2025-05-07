@@ -2,7 +2,7 @@
 
 # name: discourse-share-to-link-oneboxer
 # about: An extension to cause shares to PWAs to be entered into the title so they onebox.
-# version: 0.0.2
+# version: 0.0.3
 # authors: Robert Barrow
 # url: https://github.com/merefield/discourse-share-to-link-oneboxer
 
